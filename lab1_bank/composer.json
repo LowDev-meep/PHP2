@@ -1,0 +1,16 @@
+{
+    "name": "nogn/lab1-bank",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\BankSystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LowDev-meep",
+            "email": "longdepchai776@gmail.com"
+        }
+    ],
+    "require": {}
+}
